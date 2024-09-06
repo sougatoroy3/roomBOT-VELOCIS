@@ -1,12 +1,12 @@
 # Room Kit Mini Webex Bot
 This is a Webex bot that interacts with a Room Kit Mini device. It can perform various tasks such as checking diagnostics, room status, camera details, bookings, network details, and more.
 
-## Prerequisites
+### Prerequisites
 Node.js installed
 Webex bot token
 Room Kit Mini device with Control Hub Access or IP address and credentials
 
-## Setup
+### Setup
 Clone the repository
 Install the dependencies
     bash
