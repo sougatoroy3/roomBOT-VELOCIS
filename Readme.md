@@ -1,5 +1,23 @@
 # Room Kit Mini Webex Bot
-This is a Webex bot that interacts with a Room Kit Mini device. It can perform various tasks such as checking diagnostics, room status, camera details, bookings, network details, and more.
+This is a Webex bot that interacts with a Room Kit Mini device. It can perform various tasks by interacting with the CISCO Device and with the users. This bot has been made interactive making it engaging for the users.
+
+## Functions
+<br/>-> Can greet everyone
+<br/>-> Get personal details of the user
+<br/>-> Provde the details of the space it has been added to
+<br/>-> Check the bookings 
+<br/>-> Book a room
+<br/>-> Check the room status
+<br/>-> Check system diagnostics
+<br/>-> Check camera details
+<br/>-> Check people count
+<br/>-> Check proximity services
+<br/>-> Check network details
+<br/>-> Check system unit details
+<br/>-> Check standby state
+<br/>-> Check google meet and microsoft teams availability
+<br/>-> Get details of the framework used as a template
+<br/>-> Generate a customizable card for the user
 
 ### Prerequisites
 -> Node.js installed
