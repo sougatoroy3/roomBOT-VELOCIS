@@ -3,12 +3,12 @@ This is a Webex bot that interacts with a Room Kit Mini device. It can perform v
 
 ### Prerequisites
 -> Node.js installed
--> Webex bot token
--> Room Kit Mini device with Control Hub Access or IP address and credentials
+<br/>-> Webex bot token
+<br/>-> Room Kit Mini device with Control Hub Access or IP address and credentials
 
 ### Setup
 -> Clone the repository
--> Install the dependencies
+<br/>-> Install the dependencies
     bash
 
         npm install
