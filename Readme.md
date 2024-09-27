@@ -40,3 +40,6 @@ This is a Webex bot that interacts with a Room Kit Mini device. It can perform v
     bash
 
         node index.js
+
+## Disclaimer
+This script is NOT guaranteed to be bug free and production quality
